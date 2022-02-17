@@ -1,0 +1,13 @@
+:root {
+  --color: rgb(255, 0, 0);
+}
+
+.colorSet {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+h1 {
+  color: var(--color);
+}
